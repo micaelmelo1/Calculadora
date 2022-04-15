@@ -15,6 +15,7 @@ class Calculator {
     this.previousOperandTextElement = previousOperandTextElement;
     this.currentOperandTextElement = currentOperandTextElement;
     this.clear();
+  
   }
 
   formatDisplayNumber(number) {
